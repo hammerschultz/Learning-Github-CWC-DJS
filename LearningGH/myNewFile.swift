@@ -8,6 +8,6 @@
 import Foundation
 
 struct dummy {
-    var dummy1:String?
+    var dummy1:String = "SwiftUI"
     
 }
